@@ -1,0 +1,2 @@
+# Qnetgovbid
+Public initialize
